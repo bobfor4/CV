@@ -72,18 +72,22 @@ Science/Medicine undergraduate students as a Biochemistry Teaching Assistant. Al
 private biochemistry tuition for Science undergraduates.
 
 #### Achievements:
-European Bioinformatics Institute (EBI) Predoc Representative '05 – '06.
-Responsibilities included: Liaising between Students and Supervisors, organisation of training
+_European Bioinformatics Institute (EBI) Predoc Representative '05 – '06._
+* Responsibilities included: Liaising between Students and Supervisors, organisation of training
 course for Predoctoral fellows, looking after interview candidates, representing EBI Predoctoral
 fellows.
-Higher Diploma in Computer Science Class Representative ’00 – ’01.
-Responsibilities included: Liaising between Students and Lecturers, organisation of various social
+
+_Higher Diploma in Computer Science Class Representative ’00 – ’01._
+* Responsibilities included: Liaising between Students and Lecturers, organisation of various social
 activities.
-Treasurer of Dublin University Biochemical Society ’99 – ’00.
-Responsibilities included: acquisition of funding, budgeting and handling of finances, organising
+
+_Treasurer of Dublin University Biochemical Society ’99 – ’00._
+* Responsibilities included: acquisition of funding, budgeting and handling of finances, organising
 and entertaining guest speakers, organising social events
-Languages
+
+#### Languages
 Bilingual English/German, basic knowledge of Spanish
+
 #### Interests :
 Swing dancing, hiking, diving
 
@@ -106,28 +110,28 @@ email: lenov@babraham.ac.uk
 __Arbeitszeugniss AG Dietrich__, BIMSB-MDC available on demand
 
 #### Publications:
-* Barrett AJ, Tolle DP, Rawlings ND; Biological Chemistry 384(6):873-82 (2003)
+* Barrett AJ, __Tolle DP__, Rawlings ND; __Biological Chemistry__ _384(6):873-82 (2003)_
 Managing peptidases in the genomic era
-* Rawlings ND, Tolle DP, Barrett AJ; Biochemical Journal 378(3):705-16 (2004)
+* Rawlings ND, __Tolle DP__, Barrett AJ; __Biochemical Journal__ _378(3):705-16 (2004)_
 Evolutionary families of peptidase inhibitors
-* Rawlings ND, Tolle DP, Barrett AJ; Nucleic Acids Research 32: D160-4(2004)
+* Rawlings ND, __Tolle DP__, Barrett AJ; __Nucleic Acids Research__ _32: D160-4(2004)_
 MEROPS: The peptidase database
-* Le Novère N, Tolle DP; Proceedings of the 4th Workshop on Computation of Biochemical Pathways and
-Genetic Networks (2005)
+* Le Novère N, __Tolle DP__; __Proceedings of the 4th Workshop on Computation of Biochemical Pathways and
+Genetic Networks__ _(2005)_
 Particle-based stochastic simulations
-* Tolle DP, Le Novère N; Current Bioinformatics 1: 315-320 (2006)
+* __Tolle DP__, Le Novère N; __Current Bioinformatics__ _1: 315-320 (2006)_
 Particle-based Stochastic Simulation in Systems Biology.
-* Tolle DP, Le Novère N; BMC Syst Biol 4:24 (2010)
+* __Tolle DP__, Le Novère N; __BMC Syst Biol__ _4:24 (2010)_
 Meredys, a multi-compartment reaction-diffusion simulator using multistate realistic molecular
 complexes
-* Tolle DP, Le Novère N; BMC Syst Biol 4:25 (2010)
+* __Tolle DP__, Le Novère N; __BMC Syst Biol__ _4:25 (2010)_
 Brownian Diffusion of AMPA Receptors Is Sufficient to Explain Fast Onset of LTP
 * Waltemath D, Adams R, Beard D, Berman F, Bhalla US, Britten R, Chelliah V, Cooling M, Cooper J,
 Crampin E, Garny A,Goryanin I, Hoops S, Hucka M, Hunter P, Klipp E, Kolpakov F, Laibe C, Miller A,
-Morau I, Nickerson D, Nielsen P,Nikolski M, Sahle S, Sauro H, Schmidt H, Snoep J, Tolle D, Wolkenhauer
-O, Zaitlen B, Le Novère N; PloS Comp. Biol,7(4):e1001122 (2011)
+Morau I, Nickerson D, Nielsen P,Nikolski M, Sahle S, Sauro H, Schmidt H, Snoep J, __Tolle D__, Wolkenhauer
+O, Zaitlen B, Le Novère N; __PloS Comp. Biol__,_7(4):e1001122 (2011)_
 Minimum Information About a Simulation Experiment (MIASE)
-* Adamidi C, Wang Y, Gruen D, Mastrobuoni G, You X, Tolle D, Dodt M, Mackowiak S, Gogol-Doering A,
-Rybak A,Kempa S, Dieterich C, Rajewsky N, Chen W; Genome Research, 21(7): 1193-200 (2011)
+* Adamidi C, Wang Y, Gruen D, Mastrobuoni G, You X, __Tolle D__, Dodt M, Mackowiak S, Gogol-Doering A,
+Rybak A,Kempa S, Dieterich C, Rajewsky N, Chen W; __Genome Research__, _21(7): 1193-200 (2011)_
 De novo assembly and validation of a metazoan transcriptome by massive parallel sequencing and
 shotgun proteomics
