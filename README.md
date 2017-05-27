@@ -1,2 +1,2 @@
 # CV
-My curriculum vitae
+A curriculum vitae
